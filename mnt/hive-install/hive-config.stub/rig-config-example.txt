@@ -6,7 +6,7 @@ HIVE_HOST_URL="http://api.hiveos.farm"
 
 # Find out your hash in farm's settings on the web
 # The rig will autoregister itself in your account after the first run
-FARM_HASH=
+FARM_HASH=049c808964b0d492ebbc823e7a8ab8c0cd280b63
 
 # Password used for the rig. Can be left blank, then it will be randomly generated on the web.
 RIG_PASSWD=
